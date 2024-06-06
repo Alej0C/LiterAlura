@@ -73,11 +73,11 @@ public class Libro {
         this.lenguaje = lenguaje;
     }
 
-    public Integer getNumero_descargas() {
+    public Integer getNumeroDescargas() {
         return numeroDescargas;
     }
 
-    public void setNumero_descargas(Integer numero_descargas) {
-        this.numeroDescargas = numero_descargas;
+    public void setNumeroDescargas(Integer numeroDescargas) {
+        this.numeroDescargas = numeroDescargas;
     }
 }
